@@ -175,6 +175,11 @@ let sites = [
         url: "https://chovy.neocities.org",
         because: "Adventures in boondocking and overlanding"
     },
+        {
+        name: "Tom (tomxcd)",
+        url: "https://derg.rest",
+        because: "Dragons, dragons, and more dragons. What other reason could I possibly give?"
+    },
     {
         name: "Tommi’s space",
         url: "https://tommi.space",
